@@ -4,7 +4,6 @@
 
 This project uses Python Pandas to analyze [the data](PyCitySchool/Resources) from district-wide standarized test results to showcase trends in school performance. 
 
-
 ## Technologies Used
 
 - Python
