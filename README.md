@@ -13,7 +13,7 @@ This project uses Python Pandas to analyze [the data](PyCitySchool/Resources) fr
 
 ## Data Analysis
 
-First the analysis is done at the district level and summarizes: 
+First [the analysis](PyCitySchools/PyCitySchools_complete.ipynb) is done at the district level and summarizes: 
 - Total Schools
 - Total Students
 - Total Budget
