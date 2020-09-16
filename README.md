@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses Python Pandas to analyze district-wide standarized test results to showcase trends in school performance.
+This project uses Python Pandas to analyze the data[PyCitySchool/Resources] from district-wide standarized test results to showcase trends in school performance. 
 
 First the analysis is done at the district level and summarizes: 
 - Total Schools
